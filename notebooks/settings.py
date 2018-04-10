@@ -6,4 +6,6 @@ ROOT = os.path.abspath(os.path.dirname(__file__))
 ROOT = os.path.join(ROOT, '..')
 DATA = os.path.join(ROOT, 'data')
 
+OUTPUT = os.path.join(ROOT, 'outputs')
+
 # END OF FILE -------------------------------------------------------------------------------------#
